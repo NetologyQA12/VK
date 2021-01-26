@@ -1,10 +1,10 @@
 package ru.netology.domain;
 
 public class Header {
-private String id;
-private String head;
-private String imageID;
-private String text;
+    private String id;
+    private String head;
+    private String imageID;
+    private String text;
 
     public Header(String id, String head, String imageID, String text) {
         this.id = id;
