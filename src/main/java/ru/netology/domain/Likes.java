@@ -17,8 +17,8 @@ public class Likes {
         return likesCount;
     }
 
-    public void setCount(int count) {
-        this.likesCount = count;
+    public void setCount(int likesCount) {
+        this.likesCount = likesCount;
     }
 
     public boolean getUserLikes() {
